@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Gabriel Mota
+- IG - @Gabrielmt_s
+- 👀 I'm interested in web development, cybersecurity, and game development. These areas offer exciting opportunities to create and innovate in the digital world.
+- 🌱 I'm currently learning software engineering through UFG (Universidade Federal de Goiás), which I find to be an excellent university for this field of study. The program has been providing me with a strong foundation in software development and a deep understanding of computer science concepts.
+- 💞️ I'm looking to collaborate on exciting software projects that challenge my skills and allow me to apply what I've been learning. Whether it's web development, mobile app creation, or any software-related endeavor, I'm eager to join teams or projects that promote innovation and problem-solving.
+- 📫 Feel free to connect if you'd like to discuss potential collaborations, share ideas, or simply have a conversation about the exciting world of software engineering. I'm always open to new opportunities and connections in this field!
