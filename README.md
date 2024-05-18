@@ -12,5 +12,6 @@
 <li>📫 Sinta-se à vontade para conectar-se se quiser discutir possíveis colaborações e compartilhar ideias. Estou sempre aberto a novas oportunidades e conexões nesta área. </li>
 </ul>
 
+
 ![GabrielMota08's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMota08&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![GabrielMota08's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMota08&theme=react&show_icons=true&hide_border=false&layout=compact)
