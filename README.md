@@ -7,3 +7,6 @@
 <li>🌐 I'm looking to collaborate on exciting software projects that challenge my skills and allow me to apply what I've been learning. Whether it's web development, mobile app creation, or any software-related endeavor, I'm eager to join teams or projects that promote innovation and problem-solving.</li>
 <li>📫 Feel free to connect if you'd like to discuss potential collaborations, share ideas, or simply have a conversation about the exciting world of software engineering. I'm always open to new opportunities and connections in this field</li>
 </ul>
+
+![GabrielMota08's Stats](https://github-readme-stats.vercel.app/api?username=GabrielMota08&theme=react&show_icons=true&hide_border=false&count_private=true)
+![GabrielMota08's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMota08&theme=react&show_icons=true&hide_border=false&layout=compact)
