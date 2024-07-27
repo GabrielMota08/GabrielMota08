@@ -4,7 +4,7 @@
 <ul dir="auto">
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabriel-mota-a58580260/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabrielmt-s/)
 
 <li>🎓  Estou estudando engenharia de software na UFG. O programa tem me proporcionado uma base sólida em desenvolvimento de software, desde a gestão de projetos quanto a execução.</li>
 <li>👀 Tenho interesse em desenvolvimento web, cibersegurança e desenvolvimento de jogos. Essas áreas oferecem oportunidades empolgantes para criar e inovar no mundo digital.</li>
